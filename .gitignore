@@ -3,3 +3,10 @@
 ################################################################################
 
 /WebApi_Dengue/src/Api/bin/Debug/netcoreapp3.1
+/WebApi_Dengue/src/Api/obj
+/WebApi_Dengue/src/Business/bin/Debug/netcoreapp3.1
+/WebApi_Dengue/src/Business/obj
+/WebApi_Dengue/src/Data/bin/Debug/netcoreapp3.1
+/WebApi_Dengue/src/Data/obj
+/WebApi_Dengue/.vs/WebApi_Dengue/v16
+/.vs
