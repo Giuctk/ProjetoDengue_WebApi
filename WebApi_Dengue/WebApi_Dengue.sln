@@ -3,14 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "src\Api\Api.csproj", "{3D106FC9-C639-4C63-B714-6DEBDBBB676D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "src\Business\Business.csproj", "{9BFB0342-2EAA-4970-9A8E-7C848A2EE69E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "src\Api\Api.csproj", "{3D106FC9-C639-4C63-B714-6DEBDBBB676D}"
 	ProjectSection(ProjectDependencies) = postProject
-		{3D106FC9-C639-4C63-B714-6DEBDBBB676D} = {3D106FC9-C639-4C63-B714-6DEBDBBB676D}
+		{6BDFD349-0F5F-4F6C-AAAA-47DB2157BFDF} = {6BDFD349-0F5F-4F6C-AAAA-47DB2157BFDF}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "src\Data\Data.csproj", "{6BDFD349-0F5F-4F6C-AAAA-47DB2157BFDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "src\Business\Business.csproj", "{9BFB0342-2EAA-4970-9A8E-7C848A2EE69E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "src\Data\Data.csproj", "{6BDFD349-0F5F-4F6C-AAAA-47DB2157BFDF}"
 	ProjectSection(ProjectDependencies) = postProject
 		{9BFB0342-2EAA-4970-9A8E-7C848A2EE69E} = {9BFB0342-2EAA-4970-9A8E-7C848A2EE69E}
 	EndProjectSection
