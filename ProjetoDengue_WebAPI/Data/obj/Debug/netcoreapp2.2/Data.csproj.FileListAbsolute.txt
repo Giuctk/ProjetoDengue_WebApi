@@ -1,0 +1,12 @@
+E:\Study\DesenvolvedorIO\TCC_WebApi\ProjetoDengue_WebApi\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+E:\Study\DesenvolvedorIO\TCC_WebApi\ProjetoDengue_WebApi\Data\bin\Debug\netcoreapp2.2\Data.dll
+E:\Study\DesenvolvedorIO\TCC_WebApi\ProjetoDengue_WebApi\Data\bin\Debug\netcoreapp2.2\Data.pdb
+E:\Study\DesenvolvedorIO\TCC_WebApi\ProjetoDengue_WebApi\Data\bin\Debug\netcoreapp2.2\Business.dll
+E:\Study\DesenvolvedorIO\TCC_WebApi\ProjetoDengue_WebApi\Data\bin\Debug\netcoreapp2.2\Business.pdb
+E:\Study\DesenvolvedorIO\TCC_WebApi\ProjetoDengue_WebApi\Data\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
+E:\Study\DesenvolvedorIO\TCC_WebApi\ProjetoDengue_WebApi\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+E:\Study\DesenvolvedorIO\TCC_WebApi\ProjetoDengue_WebApi\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+E:\Study\DesenvolvedorIO\TCC_WebApi\ProjetoDengue_WebApi\Data\obj\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+E:\Study\DesenvolvedorIO\TCC_WebApi\ProjetoDengue_WebApi\Data\obj\Debug\netcoreapp2.2\Data.csproj.CopyComplete
+E:\Study\DesenvolvedorIO\TCC_WebApi\ProjetoDengue_WebApi\Data\obj\Debug\netcoreapp2.2\Data.dll
+E:\Study\DesenvolvedorIO\TCC_WebApi\ProjetoDengue_WebApi\Data\obj\Debug\netcoreapp2.2\Data.pdb
